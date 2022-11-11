@@ -20,7 +20,7 @@ Once the structure of the page has been planned, inspired by different CV exampl
 The page would be divided into two columns, the one on the right would have the header at the beginning followed by the four most relevant sections of information, while 
 the left column would start with a picture of me followed by the remaining sections (the last one being the "contact" section).
 
-Thanks to Paletton, the color palette has been chosen from two complementary colors. ![Color palette](image.jpg)
+Thanks to Paletton, the color palette has been chosen from two complementary colors. ![Color palette](palette.png)
 
 A version of the first color has been used for the background of the headings and the dots of the lists while a lighter version of the second one has been used for the headings themselves and the background of the left column.
 
