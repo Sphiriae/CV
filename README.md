@@ -17,7 +17,7 @@ The information would be found on a single web page, structured in groups one be
 ### Visual Design
 Once the structure of the page has been planned, inspired by different CV examples shown below, the final design has been reached, which has been captured in Figma to have a reference when starting to program. [Figma design](https://www.figma.com/file/P3zopB2ASsWiNlhjfzulLU/CV)
 
-![First example](example1.png) ![Second example](example2.png) ![Third example](example3.jpg)
+![First example](example.png)
 
 The page would be divided into two columns, the one on the right would have the header at the beginning followed by the four most relevant sections of information, while 
 the left column would start with a picture of me followed by the remaining sections (the last one being the "contact" section).
@@ -31,5 +31,5 @@ A version of the first color has been used for the background of the headings an
 The typography was planned to be simple and thin with a little bit of serif so that its minimalism would beautify the page and make it easy to read. 
 After investigating the font-families that CSS offers, the chosen one has been the following one: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif'.
 
-
+## Result
 The final result of the project can be seen here: [My Curriculum Vitae](https://Sphiriae.github.io)
